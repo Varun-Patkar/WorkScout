@@ -1,3 +1,9 @@
+## 🚧 Work in Progress
+
+This project is currently in the very early stages of development. The default settings and configurations provided by the framework are still in place, and significant changes and features are yet to be implemented. The repository is being used to track progress across devices.
+
+---
+
 # WorkScout
 
 WorkScout is a full-stack job board application designed to connect job seekers with employers. It offers seamless job posting, application tracking, and profile management, all within a modern React Native environment.
