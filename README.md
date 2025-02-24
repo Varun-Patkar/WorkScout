@@ -13,17 +13,17 @@ WorkScout is a full-stack job board application designed to connect job seekers 
 ## 📋 Table of Contents
 
 - [WorkScout](#workscout)
-	- [📋 Table of Contents](#-table-of-contents)
-	- [🤖 Introduction](#-introduction)
-	- [⚙️ Tech Stack](#️-tech-stack)
-	- [🔋 Features](#-features)
-	- [🤸 Quick Start](#-quick-start)
-		- [Prerequisites](#prerequisites)
-		- [Cloning the Repository](#cloning-the-repository)
-		- [Installation](#installation)
-		- [Set Up Environment Variables](#set-up-environment-variables)
-		- [Start the App](#start-the-app)
-	- [🚨 Reference Tutorial](#-reference-tutorial)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🤖 Introduction](#-introduction)
+  - [⚙️ Tech Stack](#️-tech-stack)
+  - [🔋 Features](#-features)
+  - [🤸 Quick Start](#-quick-start)
+    - [Prerequisites](#prerequisites)
+    - [Cloning the Repository](#cloning-the-repository)
+    - [Installation](#installation)
+    - [Set Up Environment Variables](#set-up-environment-variables)
+    - [Start the App](#start-the-app)
+  - [🚨 Reference Tutorial](#-reference-tutorial)
 
 ---
 
@@ -74,8 +74,8 @@ Ensure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```sh
-git clone https://github.com/your-username/workscout.git
-cd workscout
+git clone https://github.com/Varun-Patkar/WorkScout.git
+cd WorkScout
 ```
 
 ### Installation
