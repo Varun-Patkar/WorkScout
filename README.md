@@ -4,7 +4,7 @@ This project is currently in the very early stages of development. The default s
 
 ---
 
-# WorkScout
+# WorkScout - Varun Anand Patkar
 
 WorkScout is a full-stack job board application designed to connect job seekers with employers. It offers seamless job posting, application tracking, and profile management, all within a modern React Native environment.
 
@@ -12,7 +12,7 @@ WorkScout is a full-stack job board application designed to connect job seekers 
 
 ## 📋 Table of Contents
 
-- [WorkScout](#workscout)
+- [WorkScout - Varun Anand Patkar](#workscout---varun-anand-patkar)
   - [📋 Table of Contents](#-table-of-contents)
   - [🤖 Introduction](#-introduction)
   - [⚙️ Tech Stack](#️-tech-stack)
